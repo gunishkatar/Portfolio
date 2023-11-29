@@ -1,2 +1,2 @@
 # Repo Description
-Repo contains the code for my personal portfolio.
+Repo contains code for my personal portfolio.
