@@ -22,6 +22,7 @@ body{
     height: 7.15vh;
     padding-top: 0%;
     padding-bottom: 0%;
+    background-color: whitesmoke;
 }
 .hello{
     font-family: 'Ubuntu', sans-serif;
