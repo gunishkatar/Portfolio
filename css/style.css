@@ -3,7 +3,15 @@ body{
 }
 
 .home-section{
-    height: 91.9vh;
+    height: 84.9vh;
+}
+
+#form-section{
+    height: 84.9vh;
+}
+
+#footer{
+    height: 7vh;
 }
 
 #navbar{
