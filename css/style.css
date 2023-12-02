@@ -3,7 +3,7 @@ body{
 }
 
 #home-section{
-    height: 84.9vh;
+    /* height: 84.9vh; */
 }
 
 #form-section{
@@ -14,12 +14,14 @@ body{
     height: 84.9vh;
 }
 
-#footer{
-    height: 7vh;
+.footer{
+    height: 7rem;
+    /* height: 7vh; */
+    /* background-color: green; */
 }
 
 #navbar{
-    height: 7.15vh;
+    /* height: 7.15vh; */
     padding-top: 0%;
     padding-bottom: 0%;
     background-color: whitesmoke;
