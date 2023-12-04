@@ -16,12 +16,9 @@ body{
 
 .footer{
     height: 7rem;
-    /* height: 7vh; */
-    /* background-color: green; */
 }
 
 #navbar{
-    /* height: 7.15vh; */
     padding-top: 0%;
     padding-bottom: 0%;
     background-color: whitesmoke;
