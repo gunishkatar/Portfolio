@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Gunish Katar Portfolio
 
-## Getting Started
+Welcome to my digital portfolio! This space serves as a curated showcase of my professional journey, creative problem solving, and passion for data and machine learning.
 
-First, run the development server:
+## About This Project
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This website was designed to act as my living resume. Rather than just listing my experiences on paper, I built this space to visually communicate my background, the projects I am most proud of, and the value I bring as a Machine Learning Engineer and Data Scientist based in Canada.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The design philosophy behind this portfolio is heavily inspired by minimal, clean aesthetics. It features a sleek, dark mode first layout that intentionally keeps the focus on the content, allowing the work to speak for itself without unnecessary distractions.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## What You Will Find Here
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* **Professional Experience:** A look at my career progression, including my time at RBC and Wipro, and how I have grown within the data space.
+* **Academic Background:** Details about my foundation in data, mathematics, and machine learning, including my Master's degree from Dalhousie University.
+* **Featured Projects:** A showcase of the practical solutions I have built, highlighting my approach to complex challenges and model development.
+* **Ways to Connect:** Easy access to my professional networks, downloadable CV, and direct contact information.
 
-## Learn More
+## Let's Connect
 
-To learn more about Next.js, take a look at the following resources:
+Whether you are here to look at my work, discuss potential collaborations, or just talk about the latest in machine learning, I would love to connect. 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* **LinkedIn:** https://www.linkedin.com/in/gunishkatar/
+* **Email:** gunishkatar@gmail.com
